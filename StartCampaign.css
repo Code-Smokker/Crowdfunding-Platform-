@@ -9,8 +9,6 @@
     --shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
 
-/* --- GLOBAL OVERRIDES --- */
-/* Reset body to allow scrolling with header/footer */
 body {
     font-family: 'Inter', sans-serif;
     background-color: var(--white);
